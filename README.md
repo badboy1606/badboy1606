@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats-eight-psi-27.vercel.app/api?username=badboy1606&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats for Arhan" />
+  <!--<img height="170" src="https://github-readme-stats-eight-psi-27.vercel.app/api/top-langs/?username=badboy1606&layout=compact&hide_border=true" alt="Top languages for me" />-->
+</div>
